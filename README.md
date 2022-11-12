@@ -1,6 +1,3 @@
-# 005-Sass-Website
-https://huseyin-aln.github.io/005-Sass-Website/
-
 <h1 align="center">Sass Project</h1>
 
 <div align="center">
